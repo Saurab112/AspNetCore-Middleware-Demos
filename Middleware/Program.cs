@@ -13,7 +13,8 @@ app.Use(async (context, next) =>
 	await next(context);
 });
 
-app.UseMiddleware<MyCustomMiddleware>();
+//app.UseMiddleware<MyCustomMiddleware>();
+app.UseMyCustomMiddleware();
 
 //middleware 2
 app.Use(async (context, next) =>
@@ -28,4 +29,5 @@ app.Run(async (HttpContext context) =>
 	await context.Response.WriteAsync("Hello again");
 });
 app.Run();
+
 

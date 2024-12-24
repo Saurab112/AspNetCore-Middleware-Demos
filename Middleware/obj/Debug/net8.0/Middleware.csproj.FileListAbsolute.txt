@@ -27,3 +27,4 @@ C:\Users\Acer\Desktop\Middleware\Middleware\obj\Debug\net8.0\refint\Middleware.d
 C:\Users\Acer\Desktop\Middleware\Middleware\obj\Debug\net8.0\Middleware.pdb
 C:\Users\Acer\Desktop\Middleware\Middleware\obj\Debug\net8.0\Middleware.genruntimeconfig.cache
 C:\Users\Acer\Desktop\Middleware\Middleware\obj\Debug\net8.0\ref\Middleware.dll
+C:\Users\Acer\Desktop\Middleware\Middleware\obj\Debug\net8.0\Middleware.sourcelink.json
