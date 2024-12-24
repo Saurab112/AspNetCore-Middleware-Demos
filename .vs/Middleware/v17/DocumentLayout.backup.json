@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\Middleware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B803659-1BA0-47D6-9428-89C5D284A790}|Middleware\\Middleware.csproj|c:\\users\\acer\\desktop\\middleware\\middleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B803659-1BA0-47D6-9428-89C5D284A790}|Middleware\\Middleware.csproj|solutionrelative:middleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B803659-1BA0-47D6-9428-89C5D284A790}|Middleware\\Middleware.csproj|c:\\users\\acer\\desktop\\middleware\\middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B803659-1BA0-47D6-9428-89C5D284A790}|Middleware\\Middleware.csproj|solutionrelative:middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B803659-1BA0-47D6-9428-89C5D284A790}|Middleware\\Middleware.csproj|c:\\users\\acer\\desktop\\middleware\\middleware\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B803659-1BA0-47D6-9428-89C5D284A790}|Middleware\\Middleware.csproj|solutionrelative:middleware\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B803659-1BA0-47D6-9428-89C5D284A790}|Middleware\\Middleware.csproj|c:\\users\\acer\\desktop\\middleware\\middleware\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B803659-1BA0-47D6-9428-89C5D284A790}|Middleware\\Middleware.csproj|solutionrelative:middleware\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Middleware\\Middleware\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Middleware\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Middleware\\Middleware\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Middleware\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T03:28:26.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Middleware\\Middleware\\appsettings.json",
+              "RelativeDocumentMoniker": "Middleware\\appsettings.json",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Middleware\\Middleware\\appsettings.json",
+              "RelativeToolTip": "Middleware\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T03:28:11.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyCustomMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Middleware\\Middleware\\MyCustomMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\MyCustomMiddleware.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Middleware\\Middleware\\MyCustomMiddleware.cs*",
+              "RelativeToolTip": "Middleware\\MyCustomMiddleware.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:06:27.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Middleware\\Middleware\\Program.cs",
+              "RelativeDocumentMoniker": "Middleware\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Middleware\\Middleware\\Program.cs",
+              "RelativeToolTip": "Middleware\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:01:04.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
